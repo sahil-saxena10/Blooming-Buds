@@ -8,11 +8,11 @@ We provide them visual interactive training through AR technology integrated thr
 We are targeting children with autism deficiency and in future we plan to elaborate our project to each and every autism affected children and server for more deficiency soon on our project.
 
 ## Tech Stack
--Augmented reality(Lens Studio)
--HTML
--CSS
--Javascript
--Tailwind
+- Augmented reality(Lens Studio)
+- HTML
+- CSS
+- Javascript
+- Tailwind
 
 ## Future prospects
 - To create an community of the affected and the doctors. 
