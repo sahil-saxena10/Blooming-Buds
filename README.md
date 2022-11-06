@@ -17,10 +17,14 @@ We are targeting children with autism deficiency and in future we plan to elabor
 ## Future prospects
 - To create an community of the affected and the doctors. 
 
-##Team Wingers
+## Team Wingers
 - Sahil Saxena
 - Mayank Saxena
 - Aryan
 - Divyansh Saxena
 
+## Test Blooming Buds live at:
+http://127.0.0.1:5500/index.html/index.html
 
+## Demo Video
+https://drive.google.com/drive/folders/1VfiktQ-q-uyBqRgwo_x0UNNmn14JuL2B
